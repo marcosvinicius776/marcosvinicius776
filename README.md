@@ -33,4 +33,5 @@ Me chamo Marcos Vinicius de Moraes, tenho 17 anos e sou natural do Paraná. Esto
 
 <br/>
 <br/>
-# 🚀 Meta atual: Melhorar minhas habilidades atuais e aprender coisas novas!
+
+### 🚀 Meta atual: Melhorar minhas habilidades atuais e adquirir novas!
